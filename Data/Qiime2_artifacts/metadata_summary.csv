@@ -1,0 +1,71 @@
+SampleID,Age,Gender,IMC,IMC_clas,Weight_Kg,Height_cm,Ccintura,PhysicalAct_total,P_sQ_HPF,Eq_sQ_HPF,IAS,IAS_Clas,RF_NCD
+PYM000,33,Women,20.4,Normal,53,161,76,Low,4,22.4,70.5,Very good,1
+PYM001,38,Women,23.3,Normal,62.8,164,79,Low,2,15,59.3,Fair,2
+PYM101,58,Women,44.1,Obesity,110,158,135,Low,5,26.1,66.2,Good,3
+PYM102,55,Women,37.1,Obesity,91.4,157,119,Low,5,26.1,67.8,Good,2
+PYM103,57,Women,33.7,Obesity,82,156,110,Low,3,18.7,73.4,Very good,3
+PYM104,56,Women,27.9,Overweight,74.2,163,106,Low,6,29.8,48.9,Poor,4
+PYM105,43,Men,23.3,Normal,69,172,80,High,NA,NA,NA,NA,0
+PYM107,51,Women,23.6,Normal,79,183,107,Medium,1,11.3,64.2,Good,0
+PYM110,57,Women,22.5,Normal,57.5,160,88,High,3,18.7,75.3,Very good,0
+PYM111,56,Women,21.3,Normal,54.5,160,77,High,2,15,55.9,Fair,2
+PYM112,44,Women,20.8,Normal,50.5,156,77,Low,2,15,59.4,Fair,2
+PYM113,55,Women,25.7,Overweight,61,154,80,Medium,2,15,65,Good,1
+PYM201,53,Women,33,Obesity,80.3,156,106,Medium,5,26.1,76.2,Very good,1
+PYM202,50,Women,30.8,Obesity,80.8,162,90,Medium,2,15,68.3,Good,1
+PYM203,28,Women,21.8,Normal,57.8,163,75,Low,1,11.3,62.1,Good,1
+PYM204,55,Women,27.6,Overweight,78,168,77,High,6,29.8,41.5,Poor,3
+PYM205,23,Women,19.8,Normal,46.4,153,62,Medium,2,15,68,Good,0
+PYM207,26,Women,18.8,Normal,44.6,154,NA,High,NA,NA,NA,NA,1
+PYM208,25,Women,22.7,Normal,58,160,71,High,3,18.7,58.8,Fair,1
+PYM209,28,Women,21.1,Normal,56,163,70,High,2,15,75.4,Very good,0
+PYM210,26,Women,21.5,Normal,60,167,86,Medium,7,33.5,63.1,Good,0
+PYM211,21,Women,18.2,Normal,52,169,64,High,6,29.8,45.6,Poor,1
+PYM301,38,Women,23.6,Normal,65,166,95,Low,2,15,69.2,Good,1
+PYM302,42,Women,25.2,Overweight,67,163,82,Medium,4,22.4,77,Very good,1
+PYM303,53,Women,34.7,Obesity,105,174,110,Low,2,15,56.2,Fair,2
+PYM304,29,Men,22.5,Normal,73,180,NA,Low,NA,NA,NA,NA,2
+PYM305,38,Men,19.8,Normal,64,180,72,High,3,18.7,67.7,Good,0
+PYM306,32,Women,21.2,Normal,62.7,172,78,High,3,18.7,69.9,Good,0
+PYM307,43,Women,20,Normal,60,173,70,High,NA,NA,NA,NA,0
+PYM308,29,Women,19.5,Normal,51.2,162,72,Medium,0,11.3,74.4,Very good,1
+PYM309,31,Women,21.3,Normal,63,172,74,Medium,2,15,63,Good,0
+PYM310,23,Women,20.6,Normal,54,162,72,Medium,4,22.4,55.2,Fair,1
+PYM311,21,Men,25.4,Overweight,75,172,75,High,4,22.4,52.7,Fair,1
+PYM312,41,Women,26.5,Overweight,74,167,98,Low,NA,NA,NA,NA,4
+PYM401,34,Women,29.3,Overweight,74,159,96,Low,NA,NA,47.6,Poor,4
+PYM402,35,Men,27.1,Overweight,81,173,96,Medium,5,26.1,67.5,Good,1
+PYM403,26,Men,30.7,Obesity,104,184,40,High,6,29.8,45.6,Poor,2
+PYM404,32,Men,25.9,Overweight,81,177,90,High,6,29.8,46.5,Poor,3
+PYM405,31,Women,22.8,Normal,57,158,82,High,6,29.8,47.9,Poor,1
+PYM406,46,Women,22.9,Normal,64,167,84,High,3,18.7,83.4,Excellent,0
+PYM407,36,Women,21.2,Normal,53,158,69,Medium,1,11.3,70.6,Very good,0
+PYM408,46,Men,28.3,Overweight,79,167,98,High,4,22.4,55.2,Fair,2
+PYM409,31,Women,21,Normal,62,172,64,High,NA,NA,NA,NA,0
+PYM410,33,Men,25.6,Overweight,83,180,93,Low,5,26.1,55.3,Fair,2
+PYM411,32,Women,20.6,Normal,54,162,67,High,2,15,67.5,Good,1
+PYM412,33,Women,23.3,Normal,59,159,81,High,1,11.3,75.2,Very good,0
+PYM413,30,Women,20.3,Normal,63.5,177,67,Medium,4,22.4,52,Fair,1
+PYM414,27,Women,20.2,Normal,43,146,62.5,Medium,1,11.3,55,Fair,0
+PYM501,35,Women,39.5,Obesity,101,160,120,Low,3,18.7,67.7,Good,2
+PYM502,45,Women,28.4,Overweight,70,157,80,High,1,11.3,47.2,Poor,3
+PYM503,52,Women,25.2,Overweight,72,169,NA,Medium,5,26.1,85.6,Excellent,2
+PYM504,36,Men,22.2,Normal,72,180,75,High,2,15,47.8,Poor,1
+PYM506,39,Women,18.5,Normal,56,174,75.1,Low,6,29.8,55.5,Fair,1
+PYM507,46,Women,23.6,Normal,56,154,73,Medium,2,15,42,Poor,2
+PYM508,34,Women,21,Normal,60,169,70,Medium,2,15,53.5,Fair,0
+PYM509,39,Women,19.8,Normal,47,154,69,Medium,1,11.3,74.7,Very good,0
+PYM510,48,Women,23.2,Normal,58,158,80,Low,NA,NA,91.2,Excellent,1
+PYM511,49,Women,28.5,Overweight,74,161,83,Medium,1,11.3,87.5,Excellent,2
+PYM513,34,Women,19.2,Normal,48,158,66,Medium,2,15,69.6,Good,0
+PYM601,32,Women,23.3,Normal,65.8,168,79,High,4,22.4,54.5,Fair,0
+PYM602,30,Women,24.3,Normal,62.1,160,63,High,NA,NA,NA,NA,0
+PYM604,48,Women,20.9,Normal,53.6,160,68,High,1,11.3,76,Very good,1
+PYM605,35,Women,18.8,Normal,53,168,77,Medium,4,22.4,63.7,Good,0
+PYM606,32,Women,20.3,Normal,50.8,158,70,High,NA,NA,NA,NA,1
+PYM607,33,Women,20,Normal,45,150,70,High,4,22.4,47.3,Poor,2
+PYM608,23,Women,21.9,Normal,56,160,70,High,4,22.4,64.6,Good,1
+PYM609,49,Men,31.1,Obesity,93,173,104,High,1,11.3,80.6,Excellent,1
+PYM612,25,Women,21.4,Normal,54,159,66,Medium,6,29.8,51.1,Fair,0
+PYM613,23,Women,19.9,Normal,53,163,72,Medium,1,11.3,41.9,Poor,1
+PYM614,22,Men,19.7,Normal,63,179,76,High,3,18.7,77,Very good,0
